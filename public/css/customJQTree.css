@@ -1,0 +1,89 @@
+            
+        #myBody .jqx-fill-state-pressed-light,
+        #myBody .jqx-grid-cell-selected-light {
+            background-color: #1ca8dd !important;
+        }
+        
+        #myBody .jqx-cell,
+        #myBody .jqx-cell-darkblue,
+        #myBody .jqx-grid-cell,
+        #myBody .jqx-grid-cell-darkblue,
+        #myBody .jqx-item,
+        #myBody .jqx-item-darkblue {
+            height: 25px;
+        }
+        
+        #myBody .jqx-grid-table .jqx-grid-cell:first-child {
+            height: 25px !important;
+        }
+        
+        #myBody .tools .jqx-fill-state-hover {
+            border-color: transparent !important;
+            background: transparent !important;
+        }
+        
+        #myBody .jqx-fill-state-pressed-darkblue,
+        #myBody .jqx-grid-cell-selected,
+        #myBody .jqx-grid-cell-selected-darkblue,
+        #myBody .jqx-fill-state-hover,
+        #myBody .jqx-fill-state-pressed,
+        #myBody .jqx-fill-state-pressed-darkblue,
+        #myBody .jqx-fill-state-pressed {
+            background-color: #9BDAE9 !important;
+        }
+
+        #myBody .jqx-cell {
+            text-align: left !important;
+            cursor: pointer !important;
+        }
+        
+        #myBody .jqx-cell:last-child {
+            text-align: right !important;
+            cursor: pointer !important;
+        }
+        #myBody .jqx-cell:first-child {
+            font-weight: bold;
+        }
+        
+        #myBody .jqx-widget-content {
+            border-color: transparent !important;
+        }
+        
+        #myBody .jqx-widget .jqx-grid-cell,
+        #myBody .jqx-widget .jqx-grid-column-header,
+        #myBody .jqx-widget .jqx-grid-group-cell {
+            border-color: transparent !important;
+        }
+        
+        #myBody .jqx-grid-cell-alt {
+            background-color: #fff !important;
+        }
+        #myBody .jqx-grid-cell{
+            background-color: #DFF2F6 ;            
+        }
+        
+        #myBody .jqx-widget .jqx-grid-column-header {
+            border-color: transparent !important;
+        }
+        
+        #myBody .jqx-widget .jqx-grid-column-header {
+            /*color: #17a1bd !important;*/
+            color: #41413c !important;
+            font-weight: bold !important;
+        }
+        #myBody .jqx-widget-header {
+            background: transparent !important;
+            border-color: transparent!important;
+        }
+        #myBody .jqx-item{
+            color: #555550 !important;
+        }
+        #myBody .active a{
+            color: #17a1bd !important;
+        }
+		#loginForm .input-group{
+            width:100%;
+        }
+		#loginForm .jqx-widget-content {
+			border-color: transparent !important; 
+		}

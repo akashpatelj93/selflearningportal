@@ -1,0 +1,68 @@
+*,
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+.tinted-image {
+    background-image: url(../img/login-blue-bg.png);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #0D78A0;
+}
+.noPadRight {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.spacer {
+    margin-bottom: 40px;
+    float: left;
+    width: 100%;
+}
+.yellowButton {
+    background: #ffb85c;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: 1.4em;
+    text-shadow: none;
+}
+.vertAlign {
+    margin-top: 10px;
+}
+.toolName {
+    color: #ffb95a;
+    font-size: 2.5em;
+    text-align: center;
+    font-weight: normal;
+    text-shadow: 1px 1px #1C6E89;
+    margin-bottom: 60px;
+}
+.bggrey {
+    background: #cccccc;
+}
+.autoMargin {
+    margin: 40px auto;
+}
+input[type="text"] {
+    background: #e0e0e0;
+    color: #7d7d78;
+}
+input[type="password"] {
+    background: #e0e0e0;
+}
+input[type="text"]:focus {
+    border-color: #000000;
+    box-shadow: 0 1px 1px #BCBCBC inset, 0 0 8px #89DFFF;
+    color: #000000;
+}
+input[type="password"]:focus {
+    border-color: #000000;
+    box-shadow: 0 1px 1px #BCBCBC inset, 0 0 8px #89DFFF;
+    color: #000000;
+}
+button[type="submit"]:hover {
+    background: #ffb85c;
+}

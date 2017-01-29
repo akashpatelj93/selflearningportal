@@ -1,0 +1,736 @@
+.jqx-widget-content-appModGrid{border-color: #a4bed4;}
+.jqx-fill-state-normal-appModGrid, .jqx-widget-header-appModGrid{border-color:#a4bed4; background-color:#e0e9f5}
+.jqx-fill-state-hover-appModGrid{border-color:#a4bed4;  background-color:#cfdde9}
+.jqx-fill-state-pressed-appModGrid{border-color:#5e8cb3; background-color:#cfdde9}
+.jqx-fill-state-focus-appModGrid { border-color: #477396; }
+.jqx-scrollbar-state-normal-appModGrid, .jqx-grid-bottomright-appModGrid, .jqx-panel-bottomright-appModGrid, .jqx-listbox-bottomright-appModGrid{background-color:#e0e9f5}
+.jqx-widget-appModGrid .jqx-grid-column-header-appModGrid, .jqx-grid-cell-appModGrid, .jqx-widget-appModGrid .jqx-grid-cell-appModGrid, .jqx-widget-appModGrid .jqx-grid-group-cell-appModGrid, .jqx-grid-group-cell-appModGrid{border-color:#a4bed4}
+.jqx-tabs-title-selected-bottom-appModGrid, .jqx-tabs-selection-tracker-bottom-appModGrid, .jqx-tabs-title-selected-top-appModGrid, .jqx-tabs-selection-tracker-top-appModGrid{border-color:#a4bed4; border-bottom:1px solid #fff; background:#fff}
+.jqx-grid-cell-sort-alt-appModGrid, .jqx-grid-cell-filter-alt-appModGrid, .jqx-grid-cell-pinned-appModGrid, .jqx-grid-cell-alt-appModGrid, .jqx-grid-cell-sort-appModGrid{ background-color:#e7eef8}
+.jqx-grid-cell-selected-appModGrid{ background-color:#cfdde9 !important;  color:#2b465e !important;}
+.jqx-grid-cell-hover-appModGrid{ background-color:#cfdde9 !important;}
+.jqx-menu-vertical-appModGrid{background: #e0e9f5;}
+.jqx-layout-appModGrid
+{
+    background-color: #a4bed4;
+}.jqx-widget-appModGrid
+{
+  font-family: Verdana;
+}
+.jqx-widget-content-appModGrid
+{
+  color: #222222;
+  text-shadow: none;
+  border-color: #a4bed4;
+  background: #ffffff;
+  font-family: Verdana;
+}
+.jqx-widget-header-appModGrid, .jqx-grid-appModGrid .jqx-widget-header-appModGrid
+{
+  color: #222222;
+  text-shadow: none;
+  border-color: #a4bed4;
+  background-color: #D0F1F5;
+  background-image: -moz-linear-gradient(top, #D0F1F5, #D0F1F5);
+  background-image: -ms-linear-gradient(top, #D0F1F5, #D0F1F5);
+  background-image: -o-linear-gradient(top, #D0F1F5, #D0F1F5);
+  background-image: -webkit-gradient(linear, center top, center bottom, from(#D0F1F5), to(#D0F1F5));
+  background-image: -webkit-linear-gradient(top, #D0F1F5, #D0F1F5);
+  background-image: linear-gradient(top, #D0F1F5, #D0F1F5);
+  background-image: linear-gradient(to bottom, #D0F1F5, #D0F1F5);
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  -webkit-background-clip: padding-box;
+  font-family: Verdana;
+  font-size: 1.12em !important;/* added for grid border*/
+    font-weight: bold;
+}
+.jqx-grid-column-menubutton-appModGrid, .jqx-widget-appModGrid.jqx-grid-column-menubutton-appModGrid
+{
+  border-color: #a4bed4;
+}
+.jqx-grid-cell-appModGrid, .jqx-widget-appModGrid .jqx-grid-cell-appModGrid
+{
+  background-color: #ffffff;
+  color: #222222;
+  text-shadow: none;
+}
+.jqx-fill-state-normal-appModGrid
+{
+  color: #222222;
+  text-shadow: none;
+  border-color: #a4bed4;
+  background-color: #e0e9f5;
+  background-image: -moz-linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: -ms-linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: -o-linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: -webkit-gradient(linear, center top, center bottom, from(#e0e9f5), to(#e0e9f5));
+  background-image: -webkit-linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: linear-gradient(to bottom, #e0e9f5, #e0e9f5);
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  -webkit-background-clip: padding-box;
+  font-family: Verdana;
+}
+.jqx-button-appModGrid
+{
+  color: #222222;
+  text-shadow: none;
+  border-color: #a4bed4;
+  background-color: #e0e9f5;
+  background-image: -moz-linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: -ms-linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: -o-linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: -webkit-gradient(linear, center top, center bottom, from(#e0e9f5), to(#e0e9f5));
+  background-image: -webkit-linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: linear-gradient(to bottom, #e0e9f5, #e0e9f5);
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  -webkit-background-clip: padding-box;
+  font-family: Verdana;
+}
+.jqx-grid-selectionarea-appModGrid
+{
+  border-color: #a4bed4;
+  background-color: #e0e9f5;
+}
+.jqx-widget-appModGrid .jqx-grid-cell-sort-appModGrid, .jqx-widget-appModGrid .jqx-grid-cell-filter-appModGrid, .jqx-widget-appModGrid .jqx-grid-cell-pinned-appModGrid, .jqx-grid-cell-sort-appModGrid, .jqx-grid-cell-filter-appModGrid, .jqx-grid-cell-pinned-appModGrid
+{
+  background-color: #D0F1F5;
+  color: #222222;
+  text-shadow: none;
+}
+.jqx-widget-appModGrid .jqx-grid-cell-alt-appModGrid, .jqx-widget-appModGrid .jqx-grid-cell-sort-alt-appModGrid, .jqx-widget-appModGrid .jqx-grid-cell-pinned-alt-appModGrid, .jqx-widget-appModGrid .jqx-grid-cell-filter-alt-appModGrid, .jqx-grid-cell-alt-appModGrid, .jqx-grid-cell-sort-alt-appModGrid, .jqx-grid-cell-filter-alt-appModGrid
+{
+  background-color: #e7eef8;
+  color: #222222;
+  text-shadow: none;
+}
+.jqx-fill-state-hover-appModGrid, .jqx-widget-appModGrid .jqx-grid-cell-hover-appModGrid
+{
+  color: #222222;
+  text-shadow: none;
+  border-color: #a4bed4;
+  background-color: #FFD36B;
+  background-image: -moz-linear-gradient(top, #FFD36B, #FFD36B);
+  background-image: -ms-linear-gradient(top, #FFD36B, #FFD36B);
+  background-image: -o-linear-gradient(top, #FFD36B, #FFD36B);
+  background-image: -webkit-gradient(linear, center top, center bottom, from(#FFD36B), to(#FFD36B));
+  background-image: -webkit-linear-gradient(top, #FFD36B, #FFD36B);
+  background-image: linear-gradient(top, #FFD36B, #FFD36B);
+  background-image: linear-gradient(to bottom, #FFD36B, #FFD36B);
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  -webkit-background-clip: padding-box;
+  font-family: Verdana;
+}
+.jqx-fill-state-pressed-appModGrid, .jqx-widget-appModGrid .jqx-grid-cell-selected-appModGrid
+{
+  color: #222222;
+  text-shadow: none;
+  border-color: #5e8cb3;
+  background-color: #E6E6E6;
+  background-image: -moz-linear-gradient(top, #E6E6E6, #E6E6E6);
+  background-image: -ms-linear-gradient(top, #E6E6E6, #E6E6E6);
+  background-image: -o-linear-gradient(top, #E6E6E6, #E6E6E6);
+  background-image: -webkit-gradient(linear, center top, center bottom, from(#E6E6E6), to(#E6E6E6));
+  background-image: -webkit-linear-gradient(top, #E6E6E6, #E6E6E6);
+  background-image: linear-gradient(top, #E6E6E6, #E6E6E6);
+  background-image: linear-gradient(to bottom, #E6E6E6, #E6E6E6);
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  -webkit-background-clip: padding-box;
+  font-family: Verdana;
+}
+.jqx-switchbutton-label-on-appModGrid
+{
+  color: #222222;
+  text-shadow: none;
+  border-color: #5e8cb3;
+  background-color: #E6E6E6;
+  background-image: -moz-linear-gradient(top, #E6E6E6, #E6E6E6);
+  background-image: -ms-linear-gradient(top, #E6E6E6, #E6E6E6);
+  background-image: -o-linear-gradient(top, #E6E6E6, #E6E6E6);
+  background-image: -webkit-gradient(linear, center top, center bottom, from(#E6E6E6), to(#E6E6E6));
+  background-image: -webkit-linear-gradient(top, #E6E6E6, #E6E6E6);
+  background-image: linear-gradient(top, #E6E6E6, #E6E6E6);
+  background-image: linear-gradient(to bottom, #E6E6E6, #E6E6E6);
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  -webkit-background-clip: padding-box;
+}
+.jqx-tabs-title-selected-top-appModGrid, .jqx-tabs-selection-tracker-top-appModGrid
+{
+  color: #222222;
+  text-shadow: none;
+  border-color: #a4bed4;
+  border-bottom: 1px solid #ffffff;
+  background-image: none ;
+  background-color: #ffffff;
+}
+.jqx-tabs-title-selected-bottom-appModGrid, .jqx-tabs-selection-tracker-bottom-appModGrid
+{
+  color: #222222;
+  text-shadow: none;
+  border-color: #a4bed4;
+  border-top: 1px solid #ffffff;
+  background-image: none ;
+  background-color: #ffffff;
+}
+.jqx-splitter-splitbar-hover-appModGrid
+{
+  background: #FFD36B;
+}
+.jqx-splitter-splitbar-vertical-appModGrid, .jqx-splitter-splitbar-horizontal-appModGrid, .jqx-slider-track-horizontal-appModGrid, .jqx-slider-track-vertical-appModGrid
+{
+  background: #e0e9f5;
+}
+.jqx-splitter-collapse-button-horizontal-appModGrid, .jqx-splitter-collapse-button-vertical-appModGrid, .jqx-slider-rangebar-appModGrid
+{
+  background: #E6E6E6;
+}
+.jqx-scrollbar-state-normal-appModGrid
+{
+  background-color: #e0e9f5;
+  border-color: #e0e9f5;
+}
+.jqx-grid-bottomright-appModGrid, .jqx-panel-bottomright-appModGrid, .jqx-listbox-bottomright-appModGrid
+{
+  background-color: #e0e9f5;
+}
+.jqx-scrollbar-thumb-state-normal-appModGrid
+{
+  background-color: #e0e9f5;
+  background-color: #e0e9f5;
+  background-image: -moz-linear-gradient(left, #e0e9f5, #e0e9f5);
+  background-image: -ms-linear-gradient(left, #e0e9f5, #e0e9f5);
+  background-image: -o-linear-gradient(left, #e0e9f5, #e0e9f5);
+  background-image: -webkit-gradient(linear, left top, right top, from(#e0e9f5), to(#e0e9f5));
+  background-image: -webkit-linear-gradient(left, #e0e9f5, #e0e9f5);
+  background-image: linear-gradient(left, #e0e9f5, #e0e9f5);
+  background-image: linear-gradient(left right, #e0e9f5, #e0e9f5);
+}
+.jqx-scrollbar-thumb-state-normal-horizontal-appModGrid
+{
+  background-color: #e0e9f5;
+  background-color: #e0e9f5;
+  background-image: -moz-linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: -ms-linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: -o-linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: -webkit-gradient(linear, center top, center bottom, from(#e0e9f5), to(#e0e9f5));
+  background-image: -webkit-linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: linear-gradient(to bottom, #e0e9f5, #e0e9f5);
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  -webkit-background-clip: padding-box;
+}
+.jqx-scrollbar-thumb-state-hover-appModGrid
+{
+  background-color: #cfdde9;
+  border-color: #a4bed4;
+  background-image: -moz-linear-gradient(left, #cfdde9, #cfdde9);
+  background-image: -ms-linear-gradient(left, #cfdde9, #cfdde9);
+  background-image: -o-linear-gradient(left, #cfdde9, #cfdde9);
+  background-image: -webkit-gradient(linear, left top, right top, from(#cfdde9), to(#cfdde9));
+  background-image: -webkit-linear-gradient(left, #cfdde9, #cfdde9);
+  background-image: linear-gradient(left, #cfdde9, #cfdde9);
+  background-image: linear-gradient(left right, #cfdde9, #cfdde9);
+}
+.jqx-scrollbar-thumb-state-hover-horizontal-appModGrid
+{
+  background-color: #cfdde9;
+  border-color: #a4bed4;
+  background-image: -moz-linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: -ms-linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: -o-linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: -webkit-gradient(linear, center top, center bottom, from(#cfdde9), to(#cfdde9));
+  background-image: -webkit-linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: linear-gradient(to bottom, #cfdde9, #cfdde9);
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  -webkit-background-clip: padding-box;
+}
+.jqx-scrollbar-thumb-state-pressed-appModGrid
+{
+  background-color: #cfdde9;
+  border-color: #a4bed4;
+  background-image: -moz-linear-gradient(left, #cfdde9, #cfdde9);
+  background-image: -ms-linear-gradient(left, #cfdde9, #cfdde9);
+  background-image: -o-linear-gradient(left, #cfdde9, #cfdde9);
+  background-image: -webkit-gradient(linear, left top, right top, from(#cfdde9), to(#cfdde9));
+  background-image: -webkit-linear-gradient(left, #cfdde9, #cfdde9);
+  background-image: linear-gradient(left, #cfdde9, #cfdde9);
+  background-image: linear-gradient(left right, #cfdde9, #cfdde9);
+}
+.jqx-scrollbar-thumb-state-pressed-horizontal-appModGrid
+{
+  background-color: #cfdde9;
+  border-color: #a4bed4;
+  background-image: -moz-linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: -ms-linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: -o-linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: -webkit-gradient(linear, center top, center bottom, from(#cfdde9), to(#cfdde9));
+  background-image: -webkit-linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: linear-gradient(to bottom, #cfdde9, #cfdde9);
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  -webkit-background-clip: padding-box;
+}
+.jqx-scrollbar-button-state-normal-appModGrid
+{
+  background-color: #e0e9f5;
+  background-image: -moz-linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: -ms-linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: -o-linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: -webkit-gradient(linear, center top, center bottom, from(#e0e9f5), to(#e0e9f5));
+  background-image: -webkit-linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: linear-gradient(top, #e0e9f5, #e0e9f5);
+  background-image: linear-gradient(to bottom, #e0e9f5, #e0e9f5);
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  -webkit-background-clip: padding-box;
+}
+.jqx-scrollbar-button-state-hover-appModGrid
+{
+  background-color: #cfdde9;
+  border-color: #a4bed4;
+  background-image: -moz-linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: -ms-linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: -o-linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: -webkit-gradient(linear, center top, center bottom, from(#cfdde9), to(#cfdde9));
+  background-image: -webkit-linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: linear-gradient(to bottom, #cfdde9, #cfdde9);
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  -webkit-background-clip: padding-box;
+}
+.jqx-scrollbar-button-state-pressed-appModGrid
+{
+  background-color: #cfdde9;
+  border-color: #5e8cb3;
+  background-image: -moz-linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: -ms-linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: -o-linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: -webkit-gradient(linear, center top, center bottom, from(#cfdde9), to(#cfdde9));
+  background-image: -webkit-linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: linear-gradient(top, #cfdde9, #cfdde9);
+  background-image: linear-gradient(to bottom, #cfdde9, #cfdde9);
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  -webkit-background-clip: padding-box;
+}
+.jqx-radiobutton-check-checked-appModGrid
+{
+  background: #111111;
+  width: 7px;
+  height: 7px;
+  margin-left: 2px;
+  margin-top: 2px;
+  border-width: 1px;
+  border-style: solid;
+}
+.jqx-rc-tl-appModGrid
+{
+  -moz-border-radius-topleft: 3px;
+  -webkit-border-radius-topleft: 3px;
+  border-radius-topleft: 3px;
+}
+.jqx-rc-tr-appModGrid
+{
+  -moz-border-radius-topright: 3px;
+  -webkit-border-radius-topright: 3px;
+  border-radius-topright: 3px;
+}
+.jqx-rc-bl-appModGrid
+{
+  -moz-border-radius-bottomleft: 3px;
+  -webkit-border-radius-bottomleft: 3px;
+  border-radius-bottomleft: 3px;
+}
+.jqx-rc-br-appModGrid
+{
+  -moz-border-radius-bottomright: 3px;
+  -webkit-border-radius-bottomright: 3px;
+  border-radius-bottomright: 3px;
+}
+.jqx-rc-t-appModGrid
+{
+  -moz-border-radius-topleft: 3px;
+  -webkit-border-top-left-radius: 3px;
+  border-top-left-radius: 3px;
+  -moz-border-radius-topright: 3px;
+  -webkit-border-top-right-radius: 3px;
+  border-top-right-radius: 3px;
+}
+.jqx-rc-b-appModGrid
+{
+  -moz-border-radius-bottomleft: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  -moz-border-radius-bottomright: 3px;
+  -webkit-border-bottom-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+.jqx-rc-r-appModGrid
+{
+  -moz-border-radius-topright: 3px;
+  -webkit-border-top-right-radius: 3px;
+  border-top-right-radius: 3px;
+  -moz-border-radius-bottomright: 3px;
+  -webkit-border-bottom-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+.jqx-rc-l-appModGrid
+{
+  -moz-border-radius-topleft: 3px;
+  -webkit-border-top-left-radius: 3px;
+  border-top-left-radius: 3px;
+  -moz-border-radius-bottomleft: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+.jqx-radiobutton-default-appModGrid, .jqx-radiobutton-appModGrid, .jqx-radiobutton-check-checked-appModGrid, .jqx-radiobutton-hover-appModGrid, .jqx-radiobutton-check-indeterminate-appModGrid, .jqx-radiobutton-check-indeterminate-disabled-appModGrid, .jqx-slider-button-appModGrid
+{
+  -moz-border-radius: 100% !important;
+  -webkit-border-radius: 100% !important;
+  border-radius: 100% !important;
+}
+.jqx-rc-all-appModGrid, .jqx-tooltip-appModGrid, .jqx-tooltip-text-appModGrid, .jqx-tooltip-main-appModGrid
+{
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+}
+.jqx-grid-column-sortascbutton-appModGrid, .jqx-expander-arrow-bottom-appModGrid, .jqx-window-collapse-button-appModGrid, .jqx-menu-item-arrow-up-appModGrid, .jqx-menu-item-arrow-top-up-appModGrid, .jqx-icon-arrow-up-appModGrid
+{
+  background-image: url('images/icon-up.png');
+}
+.jqx-icon-arrow-up-hover-appModGrid
+{
+  background-image: url('images/icon-up.png');
+}
+.jqx-menu-item-arrow-up-selected-appModGrid, .jqx-icon-arrow-up-selected-appModGrid.jqx-expander-arrow-expanded-appModGrid
+{
+  background-image: url('images/icon-up.png');
+}
+.jqx-grid-column-menubutton-appModGrid, .jqx-grid-column-sortdescbutton-appModGrid, .jqx-expander-arrow-top-appModGrid, .jqx-window-collapse-button-collapsed-appModGrid, .jqx-menu-item-arrow-down-appModGrid, .jqx-menu-item-arrow-down-appModGrid, .jqx-tree-item-arrow-expand-appModGrid, .jqx-grid-group-expand-appModGrid, .jqx-widget-appModGrid .jqx-grid-group-expand-appModGrid, .jqx-icon-arrow-down-appModGrid
+{
+  background-image: url('images/icon-down.png');
+}
+.jqx-icon-arrow-down-hover-appModGrid
+{
+  background-image: url('images/icon-down.png');
+}
+.jqx-menu-item-arrow-down-selected-appModGrid, .jqx-icon-arrow-down-selected-appModGrid
+{
+  background-image: url('images/icon-down.png');
+}
+.jqx-tabs-arrow-left-appModGrid, .jqx-menu-item-arrow-top-left-appModGrid, .jqx-grid-group-collapse-rtl-appModGrid, .jqx-widget-appModGrid .jqx-grid-group-collapse-rtl-appModGrid, .jqx-icon-arrow-left-appModGrid, .jqx-icon-arrow-down-left-appModGrid
+{
+  background-image: url('images/icon-left.png');
+}
+.jqx-icon-arrow-left-hover-appModGrid
+{
+  background-image: url('images/icon-left.png');
+}
+.jqx-menu-vertical-appModGrid
+{
+  background: #ffffff;
+}
+.jqx-menu-item-arrow-left-selected-appModGrid, .jqx-icon-arrow-left-selected-appModGrid
+{
+  background-image: url('images/icon-left.png');
+}
+.jqx-tabs-arrow-right-appModGrid, .jqx-menu-item-arrow-top-right-appModGrid, .jqx-menu-item-arrow-collapse-appModGrid, .jqx-grid-group-collapse-appModGrid, .jqx-widget-appModGrid .jqx-grid-group-collapse-appModGrid, .jqx-icon-arrow-right-appModGrid
+{
+  background-image: url('images/icon-right.png');
+}
+.jqx-icon-arrow-right-hover-appModGrid
+{
+  background-image: url('images/icon-right.png');
+}
+.jqx-menu-item-arrow-right-selected-appModGrid, .jqx-icon-arrow-right-selected-appModGrid
+{
+  background-image: url('images/icon-right.png');
+}
+.jqx-window-close-button-appModGrid, .jqx-tabs-close-button-appModGrid, .icon-close-appModGrid
+{
+  background-image: url('images/close.png');
+}
+.jqx-tabs-close-button-selected-appModGrid
+{
+  background-image: url('images/close.png');
+}
+.jqx-tabs-close-button-hover-appModGrid
+{
+  background-image: url('images/close.png');
+}
+.jqx-widget-appModGrid .jqx-grid-column-header-appModGrid, .jqx-widget-appModGrid .jqx-grid-cell-appModGrid, .jqx-widget-appModGrid .jqx-grid-group-cell-appModGrid, .jqx-grid-cell-appModGrid
+{
+  border-color: #a4bed4;
+  font-size: 1.2em;
+}
+.jqx-checkbox-check-checked-appModGrid
+{
+  background-image: url('images/check_black.png');
+}
+.jqx-checkbox-check-indeterminate-appModGrid
+{
+  background-image: url('images/check_indeterminate_black.png');
+}
+.jqx-tooltip-appModGrid, .jqx-tooltip-main-appModGrid
+{
+  color: #222222;
+  text-shadow: none;
+  border-color: #a4bed4;
+  background-color: #e0e9f5;
+}
+.jqx-combobox-content-appModGrid, .jqx-input-appModGrid
+{
+  color: #222222;
+  text-shadow: none;
+  border-color: #a4bed4;
+  background-color: #ffffff;
+}
+.jqx-combobox-input-appModGrid
+{
+  color: #222222;
+  text-shadow: none;
+}
+.jqx-input-content-appModGrid
+{
+  color: #222222;
+  text-shadow: none;
+  background-color: #ffffff;
+}
+.jqx-fill-state-focus-appModGrid, .jqx-popup-appModGrid .jqx-fill-state-focus-appModGrid
+{
+  border-color: #477396;
+}
+.jqx-popup-appModGrid.jqx-listbox-appModGrid, .jqx-popup-appModGrid.jqx-calendar-appModGrid,.jqx-menu-dropdown-appModGrid,  .jqx-popup-appModGrid.jqx-dropdownbutton-popup-appModGrid
+{
+  color: #222222;
+  text-shadow: none;
+  border-color: #477396;
+  background-color: #ffffff;
+}
+.jqx-menu-item-arrow-right-appModGrid, .jqx-tree-item-arrow-collapse-appModGrid
+{
+  background-image: url('images/icon-right.png');
+}
+.jqx-menu-item-arrow-left-appModGrid
+{
+  background-image: url('images/icon-left.png');
+}
+.jqx-tree-item-arrow-expand-appModGrid
+{
+  background-image: url('images/icon-down.png');
+}
+.jqx-scrollbar-appModGrid .jqx-icon-arrow-up-appModGrid
+{
+  background-image: url('images/icon-up.png');
+}
+.jqx-scrollbar-appModGrid .jqx-icon-arrow-left-appModGrid
+{
+  background-image: url('images/icon-left.png');
+}
+.jqx-scrollbar-appModGrid .jqx-icon-arrow-right-appModGrid
+{
+  background-image: url('images/icon-right.png');
+}
+.jqx-scrollbar-appModGrid .jqx-icon-arrow-bottom-appModGrid
+{
+  background-image: url('images/icon-bottom.png');
+}
+.jqx-scrollbar-appModGrid .jqx-icon-arrow-up-hover-appModGrid
+{
+  background-image: url('images/icon-up.png');
+}
+.jqx-scrollbar-appModGrid .jqx-icon-arrow-left-hover-appModGrid
+{
+  background-image: url('images/icon-left.png');
+}
+.jqx-scrollbar-appModGrid .jqx-icon-arrow-right-hover-appModGrid
+{
+  background-image: url('images/icon-right.png');
+}
+.jqx-scrollbar-appModGrid .jqx-icon-arrow-bottom-hover-appModGrid
+{
+  background-image: url('images/icon-bottom.png');
+}
+.jqx-scrollbar-appModGrid .jqx-icon-arrow-up-selected-appModGrid
+{
+  background-image: url('images/icon-up.png');
+}
+.jqx-scrollbar-appModGrid .jqx-icon-arrow-left-selected-appModGrid
+{
+  background-image: url('images/icon-left.png');
+}
+.jqx-scrollbar-appModGrid .jqx-icon-arrow-right-selected-appModGrid
+{
+  background-image: url('images/icon-right.png');
+}
+.jqx-scrollbar-appModGrid .jqx-icon-arrow-bottom-selected-appModGrid
+{
+  background-image: url('images/icon-bottom.png');
+}
+.jqx-calendar-appModGrid .jqx-icon-arrow-up-appModGrid, .jqx-tabs-header-appModGrid .jqx-icon-arrow-up-appModGrid
+{
+}
+.jqx-calendar-appModGrid .jqx-icon-arrow-left-appModGrid, .jqx-tabs-header-appModGrid .jqx-icon-arrow-left-appModGrid
+{
+}
+.jqx-calendar-appModGrid .jqx-icon-arrow-right-appModGrid, .jqx-tabs-header-appModGrid .jqx-icon-arrow-right-appModGrid
+{
+}
+.jqx-calendar-appModGrid .jqx-icon-arrow-bottom-appModGrid, .jqx-tabs-header-appModGrid .jqx-icon-arrow-bottom-appModGrid
+{
+}
+.jqx-widget-appModGrid .jqx-grid-cell-appModGrid, .jqx-listitem-state-normal-appModGrid, .jqx-menu-item-normal-appModGrid, .jqx-tree-item-normal-appModGrid, .jqx-calendar-cell-appModGrid, .jqx-grid-cell-appModGrid,.jqx-menu-vertical-appModGrid .jqx-menu-item-top-normal-appModGrid, .jqx-input-popup-appModGrid .jqx-fill-state-normal-appModGrid
+{
+  font-family: Verdana;
+}
+.jqx-widget-appModGrid .jqx-grid-cell-hover-appModGrid, .jqx-listitem-state-hover-appModGrid, .jqx-menu-item-hover-appModGrid, .jqx-tree-item-hover-appModGrid, .jqx-calendar-cell-hover-appModGrid, .jqx-grid-cell-hover-appModGrid,.jqx-menu-vertical-appModGrid .jqx-menu-item-top-hover-appModGrid, .jqx-input-popup-appModGrid .jqx-fill-state-hover-appModGrid,.jqx-input-button-header-appModGrid, .jqx-input-popup-appModGrid .jqx-fill-state-pressed-appModGrid,.jqx-input-button-header-appModGrid
+{
+  font-family: Verdana;
+}
+.jqx-widget-appModGrid  .jqx-grid-cell-selected-appModGrid, .jqx-listitem-state-selected-appModGrid, .jqx-menu-item-selected-appModGrid, .jqx-tree-item-selected-appModGrid, .jqx-calendar-cell-selected-appModGrid, .jqx-grid-cell-selected-appModGrid,.jqx-menu-vertical-appModGrid .jqx-menu-item-top-selected-appModGrid, .jqx-grid-selectionarea-appModGrid
+{
+  font-family: Verdana;
+}
+.jqx-icon-calendar-appModGrid
+{
+  background-image: url('images/icon-calendar.png');
+}
+.jqx-icon-calendar-hover-appModGrid
+{
+  background-image: url('images/icon-calendar.png');
+}
+.jqx-icon-calendar-pressed-appModGrid
+{
+  background-image: url('images/icon-calendar.png');
+}
+.jqx-icon-first-appModGrid
+{
+  background-image: url('images/icon-first.png');
+}
+.jqx-icon-first-hover-appModGrid
+{
+  background-image: url('images/icon-first.png');
+}
+.jqx-icon-first-selected-appModGrid
+{
+  background-image: url('images/icon-first.png');
+}
+.jqx-icon-last-appModGrid
+{
+  background-image: url('images/icon-last.png');
+}
+.jqx-icon-last-hover-appModGrid
+{
+  background-image: url('images/icon-last.png');
+}
+.jqx-icon-last-selected-appModGrid
+{
+  background-image: url('images/icon-last.png');
+}
+.jqx-grid-cell-appModGrid.jqx-grid-cell-appModGrid>.jqx-grid-group-expand-appModGrid
+{
+  background-image: url('images/icon-down.png');
+}
+.jqx-grid-cell-appModGrid.jqx-grid-cell-hover-appModGrid>.jqx-grid-group-expand-appModGrid
+{
+  background-image: url('images/icon-down.png');
+}
+.jqx-grid-cell-appModGrid.jqx-grid-cell-selected-appModGrid>.jqx-grid-group-expand-appModGrid
+{
+  background-image: url('images/icon-down.png');
+}
+.jqx-grid-cell-appModGrid.jqx-grid-cell-appModGrid>.jqx-grid-group-collapse-appModGrid
+{
+  background-image: url('images/icon-right.png');
+}
+.jqx-grid-cell-appModGrid.jqx-grid-cell-hover-appModGrid>.jqx-grid-group-collapse-appModGrid
+{
+  background-image: url('images/icon-right.png');
+}
+.jqx-grid-cell-appModGrid.jqx-grid-cell-selected-appModGrid>.jqx-grid-group-collapse-appModGrid
+{
+  background-image: url('images/icon-right.png');
+}
+.jqx-grid-cell-appModGrid.jqx-grid-cell-appModGrid>.jqx-grid-group-expand-rtl-appModGrid
+{
+  background-image: url('images/icon-down.png');
+}
+.jqx-grid-cell-appModGrid.jqx-grid-cell-hover-appModGrid>.jqx-grid-group-expand-rtl-appModGrid
+{
+  background-image: url('images/icon-down.png');
+}
+.jqx-grid-cell-appModGrid.jqx-grid-cell-selected-appModGrid>.jqx-grid-group-expand-rtl-appModGrid
+{
+  background-image: url('images/icon-down.png');
+}
+.jqx-grid-cell-appModGrid.jqx-grid-cell-appModGrid>.jqx-grid-group-collapse-rtl-appModGrid
+{
+  background-image: url('images/icon-left.png');
+}
+.jqx-grid-cell-appModGrid.jqx-grid-cell-hover-appModGrid>.jqx-grid-group-collapse-rtl-appModGrid
+{
+  background-image: url('images/icon-left.png');
+}
+.jqx-grid-cell-appModGrid.jqx-grid-cell-selected-appModGrid>.jqx-grid-group-collapse-rtl-appModGrid
+{
+  background-image: url('images/icon-left.png');
+}
+.jqx-grid-column-menubutton-appModGrid, .jqx-grid-column-sortdescbutton-appModGrid
+{
+  background-image: url('images/icon-down.png');
+}
+.jqx-grid-column-sortascbutton-appModGrid
+{
+  background-image: url('images/icon-up.png');
+}
+.jqx-icon-delete-appModGrid
+{
+  background-image: url('images/icon-delete.png');
+}
+.jqx-icon-edit-appModGrid
+{
+  background-image: url('images/icon-edit.png');
+}
+.jqx-icon-save-appModGrid
+{
+  background-image: url('images/icon-save.png');
+}
+.jqx-icon-cancel-appModGrid
+{
+  background-image: url('images/icon-cancel.png');
+}
+.jqx-icon-search-appModGrid
+{
+  background-image: url('images/icon-search.png');
+}
+.jqx-icon-plus-appModGrid
+{
+  background-image: url('images/icon-plus.png');
+}
+
+/*----Added Extras----*/
+
+.jqx-grid-pager{
+	background: #d8e2e6 !important;
+}
+
+#columntablefourthGrid > div:first-child {
+    background: #56bfd6;
+}
+
+#columntablefourthGrid > div{
+  font-weight: bold;
+}

@@ -1,0 +1,8 @@
+readme.md
+/.metadata/
+/.settings/
+/node_modules/
+.jshintrc
+.project
+.sublime-project
+.tern-project

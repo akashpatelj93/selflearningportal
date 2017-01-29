@@ -1,0 +1,230 @@
+.jqx-gauge-label, .jqx-gauge-caption{
+ display: none;
+}
+
+/*.jqx-slider-track{
+	background: none !important;
+}
+
+.jqx-slider-rangebar{
+	background: none !important;
+}
+*/
+
+.jqx-grid-cell-selected-shinyblack{
+	background: #ffd36b;
+}
+
+
+.weightageSlider div.jqx-slider-track{
+	background: #565656;
+	padding: 2px 0px;
+}
+
+.weightageSlider  div.jqx-slider-rangebar{
+	background: #F58B0F;
+	padding: 2px 0px;
+}
+
+
+.weightageSlider  div.jqx-slider-slider{
+	padding: 2px;
+	margin-top: -1px;
+}
+
+
+
+#jqxSlider-weightage-elasticity  div.jqx-slider-track{
+	background: #565656;
+	padding: 2px 0px;
+}
+
+
+#jqxSlider-weightage-elasticity  div.jqx-slider-rangebar{
+	background: #F58B0F;
+	padding: 2px 0px;
+}
+
+
+#jqxSlider-weightage-elasticity  div.jqx-slider-slider{
+	padding: 2px;
+	margin-top: -1px;
+}
+
+
+
+
+
+#jqxSlider-weightage-scalability  div.jqx-slider-track{
+	background: #565656;
+	padding: 2px 0px;
+}
+
+#jqxSlider-weightage-scalability  div.jqx-slider-rangebar{
+	background: #F58B0F;
+	padding: 2px 0px;
+}
+
+#jqxSlider-weightage-scalability  div.jqx-slider-slider{
+	padding: 2px;
+	margin-top: -1px;
+}
+
+
+
+
+#jqxSlider-weightage-extensibility  div.jqx-slider-track{
+	background: #565656;
+	padding: 2px 0px;
+}
+
+#jqxSlider-weightage-extensibility  div.jqx-slider-rangebar{
+	background: #F58B0F;
+	padding: 2px 0px;
+}
+
+#jqxSlider-weightage-extensibility  div.jqx-slider-slider{
+	padding: 2px;
+	margin-top: -1px;
+}
+
+
+
+
+#jqxSlider-weightage-interoperability div.jqx-slider-track{
+	background: #565656;
+	padding: 2px 0px;
+}
+
+#jqxSlider-weightage-interoperability  div.jqx-slider-rangebar{
+	background: #F58B0F;
+	padding: 2px 0px;
+}
+
+#jqxSlider-weightage-interoperability  div.jqx-slider-slider{
+	padding: 2px;
+	margin-top: -1px;
+}
+
+
+
+
+#jqxSlider-weightage-ease div.jqx-slider-track{
+	background: #565656;
+	padding: 2px 0px;
+}
+
+#jqxSlider-weightage-ease  div.jqx-slider-rangebar{
+	background: #F58B0F;
+	padding: 2px 0px;
+}
+
+#jqxSlider-weightage-ease  div.jqx-slider-slider{
+	padding: 2px;
+	margin-top: -1px;
+}
+
+
+
+
+#jqxSlider-weightage-accessibility div.jqx-slider-track{
+	background: #565656;
+	padding: 2px 0px;
+}
+
+#jqxSlider-weightage-accessibility  div.jqx-slider-rangebar{
+	background: #F58B0F;
+	padding: 2px 0px;
+}
+
+#jqxSlider-weightage-accessibility  div.jqx-slider-slider{
+	padding: 2px;
+	margin-top: -1px;
+}
+
+
+
+
+#jqxSlider-weightage-availability div.jqx-slider-track{
+	background: #565656;
+	padding: 2px 0px;
+}
+
+#jqxSlider-weightage-availability  div.jqx-slider-rangebar{
+	background: #F58B0F;
+	padding: 2px 0px;
+}
+
+#jqxSlider-weightage-availability  div.jqx-slider-slider{
+	padding: 2px;
+	margin-top: -1px;
+}
+
+
+
+#jqxSlider-weightage-security div.jqx-slider-track{
+	background: #565656;
+	padding: 2px 0px;
+}
+
+#jqxSlider-weightage-security  div.jqx-slider-rangebar{
+	background: #F58B0F;
+	padding: 2px 0px;
+}
+
+#jqxSlider-weightage-security  div.jqx-slider-slider{
+	padding: 2px;
+	margin-top: -1px;
+}
+
+
+
+#jqxSlider-weightage-currency div.jqx-slider-track{
+	background: #565656;
+	padding: 2px 0px;
+}
+
+#jqxSlider-weightage-currency  div.jqx-slider-rangebar{
+	background: #F58B0F;
+	padding: 2px 0px;
+}
+
+#jqxSlider-weightage-currency  div.jqx-slider-slider{
+	padding: 2px;
+	margin-top: -1px;
+}
+
+
+
+#jqxSlider-weightage-vendor div.jqx-slider-track{
+	background: #565656;
+	padding: 2px 0px;
+}
+
+#jqxSlider-weightage-vendor  div.jqx-slider-rangebar{
+	background: #F58B0F;
+	padding: 2px 0px;
+}
+
+#jqxSlider-weightage-vendor  div.jqx-slider-slider{
+	padding: 2px;
+	margin-top: -1px;
+}
+
+#columntablejqxgrid_AppReco .jqx-grid-column-header{
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

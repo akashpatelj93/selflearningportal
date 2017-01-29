@@ -1,0 +1,176 @@
+        
+        .greyBg {
+            height: 100%;
+            width: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        
+        #full-screen-background-image {
+            min-height: 100%;
+            min-width: 1024px;
+            width: 100%;
+            height: auto;
+            position: fixed;
+            top: 0;
+            left: 0;
+        }
+        
+        #wrapper {
+            position: fixed;
+            width: 280px;
+            min-height: 400px;
+            margin: 10% 0px 0px -10px;
+        }
+                
+        @media only screen and (max-width: 768px) {
+            #wrapper {
+                position: relative;
+                width: 280px;
+                min-height: 400px;
+                margin: 22% 0px 0px -20px;
+            }
+        }
+        #wrapper ul {
+            list-style-type: none;
+            margin-left: -20px;
+        }
+        
+        #wrapper ul li {
+            padding: 10px;
+        }
+        
+        #wrapper ul li a {
+            color: #19191a;
+            font-size: 20px;
+            font-weight: 500;
+            text-decoration: none;
+        }
+        
+        #wrapper ul li a:hover {
+            color: #fff;
+        }
+        
+        #main {
+            border: 1px solid #fff;
+            transform: skewX(156deg);
+            width: 21.3%;
+            height: 20%;
+            margin-top: 200px;
+        }
+		
+        #addAssessment label{
+            color:#41413c !important;
+            font-size: 14px !important;
+        }
+
+        ::-webkit-input-placeholder {
+        color: #a5afa0;
+        }
+
+        :-moz-placeholder { /* Firefox 18- */
+        color: #a5afa0;  
+        }
+
+        ::-moz-placeholder {  /* Firefox 19+ */
+        color: #a5afa0;  
+        }
+
+        :-ms-input-placeholder {  
+        color: #a5afa0;  
+        }
+        #loginForm input,
+        #myBody #loginForm .jqx-widget-content{
+            height:35px !important;
+            border-color:#c7c7c7 !important;
+        }
+        #myBody #loginForm hr{
+            margin:0px !important;
+        }
+        #myBody #loginForm{
+            width:400px !important;
+        }
+   
+    #showcase #content {
+        width: 50%;
+    }
+    
+    #showcase #row {
+        position: absolute;
+        margin-top: -150px;
+        margin-left: 35px;
+    }
+    
+    #showcase #row1 {
+        width: 670px;
+        margin-left: -40px;
+    }
+    
+    #showcase #fluid {
+        margin-left: 50%;
+        margin-top: 20%;
+    }
+        #offerings .nav > li > a {
+        color: #787878;
+    }
+    
+    #offerings .panel-primary {
+        border-color: #ccc !important;
+    }
+    
+    #offerings #theme {
+        height: 50px;
+    }
+    
+    #offerings #country {
+        padding: 0px 0px 0px 8px !important;
+    }
+    
+    #offerings .btn {
+        background: #16A1C0 !important;
+        color: #fff !important;
+        margin: 5px;
+        width: 70px;
+    }
+    
+    #offerings #file-1 {
+        display: none;
+    }
+    
+    #offerings #cp2 {
+        width: 200px;
+    }
+    
+    #offerings #menu_nav li a {
+        color: #FFB95A;
+        font-size: 20px;
+        margin-top: 15px;
+        margin-left: 50px;
+    }
+    
+    #offerings .panel {
+        margin: 20px !important;
+    }
+    
+    #offerings .panel:nth-child(odd) .panel-heading {
+        background: #DF6238 !important;
+    }
+	#loginForm .input-group {
+		width: 93% !important;
+	}
+    #addAssessment input[type="text"]{
+        border-radius: 3px;        
+    }
+    #addAssessment .input-group{
+        width: 100%;
+    }
+    #addAssessment .btn{
+        background: #16a1bf !important;
+        margin: 0px;
+        width: initial;
+    }
+    #addAssessment #template {
+        margin-bottom: 5px;
+        font-size: 12px;
+        font-weight: bold;
+    }

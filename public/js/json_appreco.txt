@@ -1,0 +1,296 @@
+{
+  "appDetailList": [
+    {
+	  "id": "SYS00002_ASSESS0002_APP-13738",
+      "name": "Cognos Services Platform US",
+	  "description": "Description for APP-13738",
+      "recDet": [
+        {
+          "name": "Replacement with x86"
+        },
+        {
+          "name": "Front Ends"
+        },
+        {
+          "name": "Analytics/Data Lakes"        
+        },
+         {
+          "name": "APIs"        
+        }
+      ]
+    },
+    {
+      "id": "SYS00002_ASSESS0002_APP-2037",
+      "name": "BMW Infonet US",
+	  "description": "Description for APP-2037",
+	  "recDet": [
+        {
+          "name": "Replacement with SaaS/Package"
+        },
+        {
+          "name": "Front Ends"
+        },
+        {
+          "name": "Analytics/Data Lakes"      
+        }
+      ]
+    },
+    {
+      "id": "SYS00002_ASSESS0002_APP-7255",
+      "name": "TeleX Subscription Manager US",
+	  "description": "Description for APP-7255",
+	  "recDet": [
+        {
+          "name": "Replacement with SaaS/Package"
+        },
+        {
+          "name": "Front Ends"
+        },
+        {
+          "name": "Analytics/Data Lakes"        
+        }
+      ]
+    },    
+    {
+      "id": "SYS00002_ASSESS0002_APP-6288",
+      "name": "Corporate Workflow System (CARS) US",
+	  "description": "Description for APP-6288",
+	  "recDet": [
+        {
+          "name": "Replacement with SaaS/Package"
+        },
+        {
+          "name": "Front Ends"
+        },
+        {
+          "name": "Analytics/Data Lakes"        
+        }
+      ]
+    },
+    {
+      "id": "SYS00002_ASSESS0002_APP-2025",
+      "name": "Subsidiary Automotive Management System / Distribution US",
+	  "description": "Description for APP-2025",
+	  "recDet": [
+        {
+          "name": "Replacement with SaaS/Package"
+        },
+        {
+          "name": "Front Ends"
+        },
+        {
+          "name": "Analytics/Data Lake"        
+        }
+      ]
+    },
+    {
+      "id": "SYS00002_ASSESS0002_APP-2293",
+      "name": "Center Management System US",
+	  "description": "Description for APP-2293",
+	  "recDet": [
+        {
+          "name": "Replacement with SaaS/Package"
+        },
+        {
+          "name": "Front Ends"
+        },
+        {
+          "name": "Analytics/Data Lakes"        
+        }
+      ]
+    },
+    {
+      "id": "SYS00002_ASSESS0002_APP-7320",
+      "name": "Warranty National Processing System US",
+	  "description": "Description for APP-7320",
+	  "recDet": [
+        {
+          "name": "Replacement with SaaS/Package"
+        },
+        {
+          "name": "Front Ends"
+        },
+        {
+          "name": "Analytics/Data Lakes"      
+        }
+      ]
+    },
+    {
+      "id": "SYS00002_ASSESS0002_APP-3632",
+      "name": "Online Ordering US",
+	  "description": "Description for APP-3632",
+	  "recDet": [
+        {
+          "name": "Replacement with SaaS/Package"
+        },
+        {
+          "name": "Front Ends"
+        },
+        {
+          "name": "Analytics/Data Lakes"       
+        }
+      ]
+    },
+    {
+      "id": "SYS00002_ASSESS0002_APP-5464",
+      "name": "Stock Assistant US",
+	  "description": "Description for APP-5464",
+	  "recDet": [
+        {
+          "name": "Replacement with SaaS/Package"
+        },
+        {
+          "name": "Front Ends"
+        },
+        {
+          "name": "Analytics/Data Lakes"        
+        }
+      ]
+    },
+    {
+      "id": "SYS00002_ASSESS0002_APP-2058",
+      "name": "DCSnet US",
+	  "description": "Description for APP-2058",
+	  "recDet": [
+        {
+          "name": "Replacement with SaaS/Package"
+        },
+        {
+          "name": "Front Ends"
+        },
+        {
+          "name": "Analytics/Data Lakes"        
+        }
+      ]
+    },
+    {
+      "id": "SYS00002_ASSESS0002_APP-6664",
+      "name": "Vehicle Contract System Billing US",
+	  "description": "Description for APP-6664",
+	  "recDet": [
+        {
+          "name": "Replacement with SaaS/Package"
+        },
+        {
+          "name": "Front Ends"
+        },
+        {
+          "name": "Analytics/Data Lakes"        
+        }
+      ]
+    },
+    {
+      "id": "SYS00002_ASSESS0002_APP-6306",
+      "name": "ATLAS Dealer Frontend US",
+	  "description": "Description for APP-6306",
+	  "recDet": [
+        {
+          "name": "Replacement with SaaS/Package"
+        },
+        {
+          "name": "Front Ends"
+        },
+        {
+          "name": "Analytics/Data Lakes"        
+        }
+      ]
+    },
+    {
+      "id": "SYS00002_ASSESS0002_APP-2021",
+      "name": "Vehicle Invoicing & Controlling / Invoicing US",
+	  "description": "Description for APP-2021",
+	  "recDet": [
+        {
+          "name": "Replacement with SaaS/Package"
+        },
+        {
+          "name": "Front Ends"
+        },
+        {
+          "name": "Analytics/Data Lakes"       
+        }
+      ]
+    },
+    {
+      "id": "SYS00002_ASSESS0002_APP-5472",
+      "name": "PISA US",
+	  "description": "Description for APP-5472",
+	  "recDet": [
+        {
+          "name": "Replacement with SaaS/Package"
+        },
+        {
+          "name": "Front Ends"
+        },
+        {
+          "name": "Analytics/Data Lakes"        
+        }
+      ]
+    },
+    {
+      "id": "SYS00002_ASSESS0002_APP-6210",
+      "name": "Incentives US",
+	  "description": "Description for APP-6210",
+	  "recDet": [
+        {
+          "name": "Replacement with SaaS/Package"
+        },
+        {
+          "name": "Front Ends"
+        },
+        {
+          "name": "Analytics/Data Lakes"       
+        }
+      ]
+    },
+    {
+      "id": "SYS00002_ASSESS0002_APP-2062",
+      "name": "Owner Tracking Information System US",
+	  "description": "Description for APP-2062",
+	  "recDet": [
+        {
+          "name": "Replacement with SaaS/Package"
+        },
+        {
+          "name": "Front Ends"
+        },
+        {
+          "name": "Analytics/Data Lakes"       
+        }
+      ]
+    },
+    {
+      "id": "SYS00002_ASSESS0002_APP-6835",
+      "name": "Documentum Enterprise Content Management US",
+	  "description": "Description for APP-6835",
+	  "recDet": [
+        {
+          "name": "Replacement with SaaS/Package"
+        },
+        {
+          "name": "Front Ends"
+        },
+        {
+          "name": "Analytics/Data Lakes"       
+        }
+      ]
+    },
+    {
+      "id": "SYS00002_ASSESS0002_APP-13376",
+      "name": "Aftersales Mobility Program (AMP) US",
+	  "description": "Description for APP-13376",
+	  "recDet": [
+        {
+          "name": "Replacement with SaaS/Package"
+        },
+        {
+          "name": "Front Ends"
+        },
+        {
+          "name": "Analytics/Data Lakes"        
+        }
+      ]
+    }
+  ]
+}
+ 

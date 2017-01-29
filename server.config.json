@@ -1,0 +1,9 @@
+{
+    "http_host" : "localhost",
+    "http_listen_port" : 8002,
+    "data_api_idm_uri" : "http://localhost:8082/idmsvc/",
+	"data_api_url_param": "http://localhost:8080/cloudDeployService/false/",
+    "data_api_url_noparam": "http://localhost:8080/cloudDeployService/",
+    "data_api_cloud_uri": "http://localhost:8082/icpsvc/",
+	"data_api_admin_uri": "http://localhost:8082/adminsvc/"
+}

@@ -1,0 +1,45 @@
+<html lang="en" ng-app="dashboardApp">
+
+<head>
+    <meta charset="utf-8">
+    <base href="/cognitive/">
+    <title>Self Learning Portal</title>
+    <meta name="description" content="Cognitive Tool UI">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="public/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="public/css/cognitive-uiBlack.css">
+    <link rel="stylesheet" href="public/css/cognitive-ui.css">
+    <link rel="stylesheet" href="public/css/profileDashboard.css">
+    <link rel="stylesheet" href="public/css/landing.css">
+    <link rel="stylesheet" href="public/css/sysAdmin.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    <script type="text/javascript">
+        var APP_URL = "{{data_uri}}"
+        var APP_ADMIN_URL = "{{data_api_admin_uri}}"
+    </script>
+    <!--External Javascript Libraries-->
+    <script type="text/javascript" src="public/js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="public/js/angular.min.js"></script>
+    <script type="text/javascript" src="public/js/underscore-min.js"></script>
+    <script type="text/javascript" src="public/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="public/js/ui-bootstrap-tpls-1.2.4.min.js"></script>
+    <script type="text/javascript" src="public/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="public/js/underscore-min.js"></script>
+    <script type="text/javascript" src="public/jqwidgets/jqxangular.js"></script>
+    <link rel="stylesheet" type="text/css" href="public/css/component.css" />
+    <script type="text/javascript" src="public/js/angular-route.min.js"></script>
+    <script type="text/javascript" src="public/js/angular-resource.min.js"></script>
+    <script type="text/javascript" src="public/controllers/dashboardApp.js"></script>
+    <script type="text/javascript" src="public/controllers/loginCtrl.js"></script>
+
+
+</head>
+
+<body>
+    <div ng-view id='content-div'>
+    </div>
+</body>
+
+</html>
